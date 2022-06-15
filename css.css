@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(20, 16, 19);
+}
+h1{
+    color: rgb(170, 160, 172);
+}
+
+.cor1{
+    background-color: rgb(51, 45, 49);
+}
+
+.efeito:hover{
+    cursor: pointer;
+    transition-duration: 1s;
+    transform:scale(1.1 , 1.1);
+}
+
+.space-1{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.tamanho-latra{
+    font-size: 70;
+}
+
+.space{
+padding-left: 300px;
+padding-right: 300px;
+}
+
+.back-fund-input{
+    background-color: aliceblue;
+    font-weight: bold;
+    color: rgb(116, 93, 63);
+    
+}
